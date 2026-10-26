@@ -22,14 +22,6 @@
 - Financial and tax reporting with PL/pgSQL engines and JasperReports
 - ZK themes and UI improvements
 
-## Featured · Destacados
-
-| Project | Description |
-|---|---|
-| [com.soropeza.sqlquery](https://github.com/sergioropeza/com.soropeza.sqlquery) | Enhanced SQL Query form for iDempiere 10, 12 and 13: code editor with syntax highlighting and keyboard shortcuts. |
-| [idempiere-rest](https://github.com/sergioropeza/idempiere-rest) | Fork of the iDempiere REST API plugin with my changes. |
-| [idempiere.github.io](https://github.com/sergioropeza/idempiere.github.io) | Contributions to the iDempiere community documentation. |
-
 ## Tech stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
